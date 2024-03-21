@@ -42,5 +42,5 @@ print(EMID.items())
 for k in EMID.items():
     print(k)
     
-for key, value in EMID.itesm():
+for key, value in EMID.items():
        print(f"The value corresponding to {key} is {EMID[i]}.")
