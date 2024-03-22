@@ -7,7 +7,7 @@ Dict= {
 print(type(Dict))
 print(Dict)
 print(Dict["Shubham"])
-
+ 
 EMID= {
     "Jayesh" : "1623",
     "Akshay" : "1487",
