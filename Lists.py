@@ -5,7 +5,7 @@ print(len(marks))
 print(type(marks))
 print(marks[(len(marks)-1)])
 print(marks)
-print(marks[:])
+print(marks[:]) 
 print(marks[1:])
 print(marks[:3])
 # lenght of marks -3

@@ -1,0 +1,4 @@
+def funt():
+#   pass
+
+funt()
