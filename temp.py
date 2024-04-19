@@ -1,4 +1,0 @@
-def funt():
-#   pass
-
-funt()
